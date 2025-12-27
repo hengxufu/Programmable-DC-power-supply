@@ -1,0 +1,373 @@
+{
+    "version": "0.1",
+    "components": [
+        {
+            "type": "path",
+            "points": [
+                {
+                    "x": -37.795,
+                    "y": -132.283
+                },
+                {
+                    "x": -37.795,
+                    "y": -47.244
+                }
+            ],
+            "label": {
+                "value": "C_3",
+                "otherSide": true,
+                "distance": "0.12cm"
+            },
+            "id": "capacitor",
+            "scale": {
+                "x": 0.6,
+                "y": 0.6
+            }
+        },
+        {
+            "type": "path",
+            "points": [
+                {
+                    "x": 0,
+                    "y": -132.283
+                },
+                {
+                    "x": 0,
+                    "y": -47.244
+                }
+            ],
+            "label": {
+                "value": "C_4",
+                "otherSide": true,
+                "distance": "0.02cm"
+            },
+            "id": "capacitor",
+            "scale": {
+                "x": 0.6,
+                "y": 0.6
+            }
+        },
+        {
+            "type": "path",
+            "points": [
+                {
+                    "x": 37.795,
+                    "y": -132.283
+                },
+                {
+                    "x": 37.795,
+                    "y": -47.244
+                }
+            ],
+            "label": {
+                "value": "C_5",
+                "otherSide": true,
+                "distance": "0.02cm"
+            },
+            "id": "capacitor",
+            "scale": {
+                "x": 0.6,
+                "y": 0.6
+            }
+        },
+        {
+            "type": "path",
+            "points": [
+                {
+                    "x": 75.591,
+                    "y": -132.283
+                },
+                {
+                    "x": 75.591,
+                    "y": -47.244
+                }
+            ],
+            "label": {
+                "value": "C_6",
+                "otherSide": true,
+                "distance": "0.02cm"
+            },
+            "id": "capacitor",
+            "scale": {
+                "x": 0.6,
+                "y": 0.6
+            }
+        },
+        {
+            "type": "path",
+            "points": [
+                {
+                    "x": 113.386,
+                    "y": -132.283
+                },
+                {
+                    "x": 113.386,
+                    "y": -47.244
+                }
+            ],
+            "label": {
+                "value": "C_7",
+                "otherSide": true,
+                "distance": "0.02cm"
+            },
+            "id": "capacitor",
+            "scale": {
+                "x": 0.6,
+                "y": 0.6
+            }
+        },
+        {
+            "type": "path",
+            "points": [
+                {
+                    "x": 151.181,
+                    "y": -132.283
+                },
+                {
+                    "x": 151.181,
+                    "y": -47.244
+                }
+            ],
+            "label": {
+                "value": "C_8",
+                "otherSide": true,
+                "distance": "0.02cm"
+            },
+            "id": "capacitor",
+            "scale": {
+                "x": 0.6,
+                "y": 0.6
+            }
+        },
+        {
+            "type": "path",
+            "points": [
+                {
+                    "x": 188.976,
+                    "y": -132.283
+                },
+                {
+                    "x": 188.976,
+                    "y": -47.244
+                }
+            ],
+            "label": {
+                "value": "C_9",
+                "otherSide": true,
+                "distance": "0.04cm"
+            },
+            "id": "capacitor",
+            "scale": {
+                "x": 0.6,
+                "y": 0.6
+            }
+        },
+        {
+            "type": "path",
+            "points": [
+                {
+                    "x": 236.22,
+                    "y": -132.283
+                },
+                {
+                    "x": 236.22,
+                    "y": -47.244
+                }
+            ],
+            "label": {
+                "value": "C_{10}",
+                "otherSide": true,
+                "distance": "0.02cm"
+            },
+            "id": "capacitor",
+            "scale": {
+                "x": 0.6,
+                "y": 0.6
+            }
+        },
+        {
+            "type": "node",
+            "label": {
+                "value": "\\mathrm{VCC}",
+                "anchor": "default",
+                "position": "north",
+                "distance": "0.12cm"
+            },
+            "position": {
+                "x": -37.795,
+                "y": -132.283
+            },
+            "rotation": -180,
+            "id": "rground"
+        },
+        {
+            "type": "node",
+            "label": {
+                "value": "\\mathrm{VCC}",
+                "anchor": "default",
+                "position": "north",
+                "distance": "0.12cm"
+            },
+            "position": {
+                "x": 0,
+                "y": -132.283
+            },
+            "rotation": -180,
+            "id": "rground"
+        },
+        {
+            "type": "node",
+            "label": {
+                "value": "\\mathrm{VCC}",
+                "anchor": "default",
+                "position": "north",
+                "distance": "0.12cm"
+            },
+            "position": {
+                "x": 37.795,
+                "y": -132.283
+            },
+            "rotation": -180,
+            "id": "rground"
+        },
+        {
+            "type": "node",
+            "label": {
+                "value": "\\mathrm{VCC}",
+                "anchor": "default",
+                "position": "north",
+                "distance": "0.12cm"
+            },
+            "position": {
+                "x": 75.591,
+                "y": -132.283
+            },
+            "rotation": -180,
+            "id": "rground"
+        },
+        {
+            "type": "node",
+            "label": {
+                "value": "\\mathrm{VCC}",
+                "anchor": "default",
+                "position": "north",
+                "distance": "0.12cm"
+            },
+            "position": {
+                "x": 113.386,
+                "y": -132.283
+            },
+            "rotation": -180,
+            "id": "rground"
+        },
+        {
+            "type": "node",
+            "label": {
+                "value": "\\mathrm{VCC}",
+                "anchor": "default",
+                "position": "north",
+                "distance": "0.12cm"
+            },
+            "position": {
+                "x": 151.181,
+                "y": -132.283
+            },
+            "rotation": -180,
+            "id": "rground"
+        },
+        {
+            "type": "node",
+            "label": {
+                "value": "\\mathrm{VCC}",
+                "anchor": "default",
+                "position": "north",
+                "distance": "0.12cm"
+            },
+            "position": {
+                "x": 188.976,
+                "y": -132.283
+            },
+            "rotation": -180,
+            "id": "rground"
+        },
+        {
+            "type": "node",
+            "label": {
+                "value": "\\mathrm{VCC}",
+                "anchor": "default",
+                "position": "north",
+                "distance": "0.12cm"
+            },
+            "position": {
+                "x": 236.22,
+                "y": -132.283
+            },
+            "rotation": -180,
+            "id": "rground"
+        },
+        {
+            "type": "node",
+            "position": {
+                "x": -37.795,
+                "y": -47.244
+            },
+            "id": "rground"
+        },
+        {
+            "type": "node",
+            "position": {
+                "x": 0,
+                "y": -47.244
+            },
+            "id": "rground"
+        },
+        {
+            "type": "node",
+            "position": {
+                "x": 37.795,
+                "y": -47.244
+            },
+            "id": "rground"
+        },
+        {
+            "type": "node",
+            "position": {
+                "x": 75.591,
+                "y": -47.244
+            },
+            "id": "rground"
+        },
+        {
+            "type": "node",
+            "position": {
+                "x": 113.386,
+                "y": -47.244
+            },
+            "id": "rground"
+        },
+        {
+            "type": "node",
+            "position": {
+                "x": 151.181,
+                "y": -47.244
+            },
+            "id": "rground"
+        },
+        {
+            "type": "node",
+            "position": {
+                "x": 188.976,
+                "y": -47.244
+            },
+            "id": "rground"
+        },
+        {
+            "type": "node",
+            "position": {
+                "x": 236.22,
+                "y": -47.244
+            },
+            "id": "rground"
+        }
+    ]
+}

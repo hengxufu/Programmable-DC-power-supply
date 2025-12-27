@@ -1,0 +1,1603 @@
+{
+    "version": "0.1",
+    "components": [
+        {
+            "type": "rect",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "type": "rect",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "stroke": {
+                "opacity": 0
+            },
+            "size": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "type": "rect",
+            "label": {
+                "value": "U_{3}",
+                "anchor": "default",
+                "position": "north",
+                "distance": "0.12cm"
+            },
+            "position": {
+                "x": 541.94,
+                "y": -115.62
+            },
+            "size": {
+                "x": 120.101,
+                "y": 155.649
+            }
+        },
+        {
+            "type": "rect",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "type": "rect",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "type": "rect",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "type": "rect",
+            "label": {
+                "value": "\\mathrm{VS+}",
+                "anchor": "default",
+                "position": "center",
+                "distance": "0.12cm"
+            },
+            "position": {
+                "x": 582.823,
+                "y": -57.081
+            },
+            "stroke": {
+                "opacity": 0
+            },
+            "size": {
+                "x": 53.136,
+                "y": 11.752
+            },
+            "text": {
+                "text": " ",
+                "showPlaceholderText": true
+            }
+        },
+        {
+            "type": "rect",
+            "label": {
+                "value": "\\mathrm{GND}",
+                "anchor": "default",
+                "position": "default",
+                "distance": "0.12cm"
+            },
+            "position": {
+                "x": 581.417,
+                "y": -82.241
+            },
+            "stroke": {
+                "opacity": 0
+            },
+            "size": {
+                "x": 60.051,
+                "y": 21.439
+            },
+            "text": {
+                "text": " ",
+                "showPlaceholderText": true
+            }
+        },
+        {
+            "type": "rect",
+            "label": {
+                "value": "\\mathrm{VBUS}",
+                "anchor": "default",
+                "position": "default",
+                "distance": "0.12cm"
+            },
+            "position": {
+                "x": 577.029,
+                "y": -111.102
+            },
+            "stroke": {
+                "opacity": 0
+            },
+            "size": {
+                "x": 62.044,
+                "y": 19.153
+            },
+            "text": {
+                "text": " ",
+                "showPlaceholderText": true
+            }
+        },
+        {
+            "type": "rect",
+            "label": {
+                "value": "\\mathrm{VIN-}",
+                "anchor": "default",
+                "position": "default",
+                "distance": "0.12cm"
+            },
+            "position": {
+                "x": 579.598,
+                "y": -138.812
+            },
+            "stroke": {
+                "opacity": 0
+            },
+            "size": {
+                "x": 60.051,
+                "y": 19.137
+            },
+            "text": {
+                "text": " ",
+                "showPlaceholderText": true
+            }
+        },
+        {
+            "type": "rect",
+            "label": {
+                "value": "\\mathrm{SCL}",
+                "anchor": "default",
+                "position": "default",
+                "distance": "0.12cm"
+            },
+            "position": {
+                "x": 504.247,
+                "y": -56.853
+            },
+            "stroke": {
+                "opacity": 0
+            },
+            "size": {
+                "x": 60.051,
+                "y": 26.239
+            },
+            "text": {
+                "text": " ",
+                "showPlaceholderText": true
+            }
+        },
+        {
+            "type": "rect",
+            "label": {
+                "value": "\\mathrm{SDA}",
+                "anchor": "default",
+                "position": "default",
+                "distance": "0.12cm"
+            },
+            "position": {
+                "x": 505.091,
+                "y": -86.301
+            },
+            "stroke": {
+                "opacity": 0
+            },
+            "size": {
+                "x": 58.058,
+                "y": 19.074
+            },
+            "text": {
+                "text": " ",
+                "showPlaceholderText": true
+            }
+        },
+        {
+            "type": "rect",
+            "label": {
+                "value": "\\mathrm{ALERT}",
+                "anchor": "default",
+                "position": "default",
+                "distance": "0.12cm"
+            },
+            "position": {
+                "x": 512.905,
+                "y": -111.041
+            },
+            "stroke": {
+                "opacity": 0
+            },
+            "size": {
+                "x": 64.067,
+                "y": 16.823
+            },
+            "text": {
+                "text": " ",
+                "showPlaceholderText": true
+            }
+        },
+        {
+            "type": "rect",
+            "label": {
+                "value": "\\mathrm{A0}",
+                "anchor": "default",
+                "position": "default",
+                "distance": "0.12cm"
+            },
+            "position": {
+                "x": 497.784,
+                "y": -139.478
+            },
+            "stroke": {
+                "opacity": 0
+            },
+            "size": {
+                "x": 64.067,
+                "y": 26.469
+            },
+            "text": {
+                "text": " ",
+                "showPlaceholderText": true
+            }
+        },
+        {
+            "type": "ellipse",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "type": "rect",
+            "position": {
+                "x": 504.079,
+                "y": -170.244
+            },
+            "stroke": {
+                "opacity": 0
+            },
+            "size": {
+                "x": 42.519,
+                "y": 21.479
+            },
+            "text": {
+                "text": "A1",
+                "showPlaceholderText": true
+            }
+        },
+        {
+            "type": "rect",
+            "position": {
+                "x": 578.546,
+                "y": -168.343
+            },
+            "stroke": {
+                "opacity": 0
+            },
+            "size": {
+                "x": 46.903,
+                "y": 22.794
+            },
+            "text": {
+                "text": "VIN+",
+                "showPlaceholderText": true
+            }
+        },
+        {
+            "type": "path",
+            "points": [
+                {
+                    "x": 364.914,
+                    "y": -111.884
+                },
+                {
+                    "x": 448.824,
+                    "y": -111.812
+                }
+            ],
+            "label": {
+                "value": "R_7",
+                "distance": "0.05cm"
+            },
+            "id": "european resistor",
+            "scale": {
+                "x": 0.6,
+                "y": 0.6
+            }
+        },
+        {
+            "type": "path",
+            "points": [
+                {
+                    "x": 365.452,
+                    "y": -83.892
+                },
+                {
+                    "x": 448.285,
+                    "y": -83.322
+                }
+            ],
+            "label": {
+                "value": "R_8",
+                "distance": "0.09cm"
+            },
+            "id": "european resistor",
+            "scale": {
+                "x": 0.6,
+                "y": 0.6
+            }
+        },
+        {
+            "type": "path",
+            "points": [
+                {
+                    "x": 365.577,
+                    "y": -139.716
+                },
+                {
+                    "x": 448.16,
+                    "y": -139.733
+                }
+            ],
+            "label": {
+                "value": "R_6",
+                "distance": "0.04cm"
+            },
+            "id": "european resistor",
+            "scale": {
+                "x": 0.6,
+                "y": 0.6
+            }
+        },
+        {
+            "type": "path",
+            "points": [
+                {
+                    "x": 364.618,
+                    "y": -57.001
+                },
+                {
+                    "x": 451.218,
+                    "y": -56.254
+                }
+            ],
+            "label": {
+                "value": "R_9",
+                "distance": "0.06cm"
+            },
+            "id": "european resistor",
+            "scale": {
+                "x": 0.6,
+                "y": 0.6
+            }
+        },
+        {
+            "type": "path",
+            "points": [
+                {
+                    "x": 365.82,
+                    "y": -170.065
+                },
+                {
+                    "x": 447.917,
+                    "y": -170.244
+                }
+            ],
+            "label": {
+                "value": "R_5",
+                "distance": "0.12cm"
+            },
+            "id": "european resistor",
+            "scale": {
+                "x": 0.6,
+                "y": 0.6
+            }
+        },
+        {
+            "type": "wire",
+            "points": [
+                {
+                    "x": 449.663,
+                    "y": -170.629
+                },
+                {
+                    "x": 447.917,
+                    "y": -170.244
+                }
+            ],
+            "stroke": {
+                "width": "0.4pt"
+            },
+            "directions": [
+                "|-"
+            ]
+        },
+        {
+            "type": "wire",
+            "points": [
+                {
+                    "x": 449.17,
+                    "y": -139.733
+                },
+                {
+                    "x": 448.16,
+                    "y": -139.733
+                }
+            ],
+            "stroke": {
+                "width": "0.4pt"
+            },
+            "directions": [
+                "-|"
+            ]
+        },
+        {
+            "type": "wire",
+            "points": [
+                {
+                    "x": 449.426,
+                    "y": -111.812
+                },
+                {
+                    "x": 448.824,
+                    "y": -111.812
+                }
+            ],
+            "stroke": {
+                "width": "0.4pt"
+            },
+            "directions": [
+                "-|"
+            ]
+        },
+        {
+            "type": "wire",
+            "points": [
+                {
+                    "x": 448.393,
+                    "y": -83.322
+                },
+                {
+                    "x": 448.285,
+                    "y": -83.322
+                }
+            ],
+            "stroke": {
+                "width": "0.4pt"
+            },
+            "directions": [
+                "-|"
+            ]
+        },
+        {
+            "type": "wire",
+            "points": [
+                {
+                    "x": 482.82,
+                    "y": -170.244
+                },
+                {
+                    "x": 447.917,
+                    "y": -170.244
+                }
+            ],
+            "stroke": {
+                "width": "0.4pt"
+            },
+            "directions": [
+                "|-"
+            ]
+        },
+        {
+            "type": "wire",
+            "points": [
+                {
+                    "x": 481.89,
+                    "y": -170.079
+                },
+                {
+                    "x": 448.16,
+                    "y": -139.733
+                }
+            ],
+            "stroke": {
+                "width": "0.4pt"
+            },
+            "directions": [
+                "|-"
+            ]
+        },
+        {
+            "type": "wire",
+            "points": [
+                {
+                    "x": 481.89,
+                    "y": -139.733
+                },
+                {
+                    "x": 448.824,
+                    "y": -111.812
+                }
+            ],
+            "stroke": {
+                "width": "0.4pt"
+            },
+            "directions": [
+                "|-"
+            ]
+        },
+        {
+            "type": "wire",
+            "points": [
+                {
+                    "x": 481.89,
+                    "y": -111.812
+                },
+                {
+                    "x": 448.393,
+                    "y": -83.322
+                }
+            ],
+            "stroke": {
+                "width": "0.4pt"
+            },
+            "directions": [
+                "|-"
+            ]
+        },
+        {
+            "type": "wire",
+            "points": [
+                {
+                    "x": 481.89,
+                    "y": -83.322
+                },
+                {
+                    "x": 451.218,
+                    "y": -56.254
+                }
+            ],
+            "stroke": {
+                "width": "0.4pt"
+            },
+            "directions": [
+                "|-"
+            ]
+        },
+        {
+            "type": "wire",
+            "points": [
+                {
+                    "x": 364.914,
+                    "y": -111.884
+                },
+                {
+                    "x": 365.452,
+                    "y": -83.892
+                }
+            ],
+            "stroke": {
+                "width": "0.4pt"
+            },
+            "directions": [
+                "|-"
+            ]
+        },
+        {
+            "type": "wire",
+            "points": [
+                {
+                    "x": 364.914,
+                    "y": -83.892
+                },
+                {
+                    "x": 364.618,
+                    "y": -57.001
+                }
+            ],
+            "stroke": {
+                "width": "0.4pt"
+            },
+            "directions": [
+                "|-"
+            ]
+        },
+        {
+            "type": "wire",
+            "points": [
+                {
+                    "x": 365.82,
+                    "y": -170.065
+                },
+                {
+                    "x": 365.577,
+                    "y": -139.716
+                }
+            ],
+            "stroke": {
+                "width": "0.4pt"
+            },
+            "directions": [
+                "|-"
+            ]
+        },
+        {
+            "type": "wire",
+            "points": [
+                {
+                    "x": 365.82,
+                    "y": -170.065
+                },
+                {
+                    "x": 333.335,
+                    "y": -155.405
+                }
+            ],
+            "stroke": {
+                "width": "0.4pt"
+            },
+            "directions": [
+                "|-"
+            ]
+        },
+        {
+            "type": "wire",
+            "points": [
+                {
+                    "x": 364.914,
+                    "y": -83.892
+                },
+                {
+                    "x": 332.098,
+                    "y": -84.059
+                }
+            ],
+            "stroke": {
+                "width": "0.4pt"
+            },
+            "directions": [
+                "-|"
+            ]
+        },
+        {
+            "type": "wire",
+            "points": [
+                {
+                    "x": 601.998,
+                    "y": -168.343
+                },
+                {
+                    "x": 639.007,
+                    "y": -168.16
+                }
+            ],
+            "stroke": {
+                "width": "0.4pt"
+            },
+            "directions": [
+                "-|"
+            ]
+        },
+        {
+            "type": "wire",
+            "points": [
+                {
+                    "x": 601.998,
+                    "y": -156.946
+                },
+                {
+                    "x": 638.212,
+                    "y": -138.33
+                }
+            ],
+            "stroke": {
+                "width": "0.4pt"
+            },
+            "directions": [
+                "|-"
+            ]
+        },
+        {
+            "type": "wire",
+            "points": [
+                {
+                    "x": 601.998,
+                    "y": -138.33
+                },
+                {
+                    "x": 636.621,
+                    "y": -110.886
+                }
+            ],
+            "stroke": {
+                "width": "0.4pt"
+            },
+            "directions": [
+                "|-"
+            ]
+        },
+        {
+            "type": "wire",
+            "points": [
+                {
+                    "x": 601.998,
+                    "y": -110.886
+                },
+                {
+                    "x": 648.155,
+                    "y": -82.647
+                },
+                {
+                    "x": 677.588,
+                    "y": -116.455
+                }
+            ],
+            "stroke": {
+                "width": "0.4pt"
+            },
+            "directions": [
+                "|-",
+                "-|"
+            ]
+        },
+        {
+            "type": "wire",
+            "points": [
+                {
+                    "x": 601.998,
+                    "y": -82.647
+                },
+                {
+                    "x": 649.348,
+                    "y": -55.999
+                },
+                {
+                    "x": 650.144,
+                    "y": -38.896
+                }
+            ],
+            "stroke": {
+                "width": "0.4pt"
+            },
+            "directions": [
+                "|-",
+                "-|"
+            ]
+        },
+        {
+            "type": "node",
+            "label": {
+                "value": "\\mathrm{VIN+}",
+                "anchor": "default",
+                "position": "east",
+                "distance": "0.12cm"
+            },
+            "position": {
+                "x": 639.007,
+                "y": -168.343
+            },
+            "rotation": -90,
+            "id": "tground"
+        },
+        {
+            "type": "node",
+            "label": {
+                "value": "\\mathrm{VCC}",
+                "anchor": "default",
+                "position": "east",
+                "distance": "0.12cm"
+            },
+            "position": {
+                "x": 638.212,
+                "y": -138.33
+            },
+            "rotation": -90,
+            "id": "tground"
+        },
+        {
+            "type": "node",
+            "position": {
+                "x": 677.588,
+                "y": -116.455
+            },
+            "id": "tground"
+        },
+        {
+            "type": "node",
+            "label": {
+                "value": "\\mathrm{VCC}",
+                "anchor": "default",
+                "position": "south",
+                "distance": "0.12cm"
+            },
+            "position": {
+                "x": 650.144,
+                "y": -38.896
+            },
+            "id": "tground"
+        },
+        {
+            "type": "wire",
+            "points": [
+                {
+                    "x": 677.588,
+                    "y": -116.455
+                },
+                {
+                    "x": 711.344,
+                    "y": -100.905
+                },
+                {
+                    "x": 711.344,
+                    "y": -88.094
+                }
+            ],
+            "stroke": {
+                "width": "0.4pt"
+            },
+            "directions": [
+                "|-",
+                "|-"
+            ]
+        },
+        {
+            "type": "path",
+            "points": [
+                {
+                    "x": 711.344,
+                    "y": -88.094
+                },
+                {
+                    "x": 711.297,
+                    "y": -64.563
+                }
+            ],
+            "label": {
+                "value": "C_5",
+                "distance": "0.12cm"
+            },
+            "id": "capacitor",
+            "scale": {
+                "x": 0.6,
+                "y": 0.6
+            }
+        },
+        {
+            "type": "rect",
+            "position": {
+                "x": 488.859,
+                "y": -360.064
+            },
+            "size": {
+                "x": 77.746,
+                "y": 208.685
+            }
+        },
+        {
+            "type": "rect",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "type": "ellipse",
+            "position": {
+                "x": 465.935,
+                "y": -451.153
+            },
+            "size": {
+                "x": 16.578580496770343,
+                "y": 16.578580496770314
+            }
+        },
+        {
+            "type": "ellipse",
+            "position": {
+                "x": 0,
+                "y": 2.927
+            },
+            "size": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "type": "rect",
+            "label": {
+                "value": "1",
+                "anchor": "default",
+                "position": "default",
+                "distance": "0.12cm"
+            },
+            "position": {
+                "x": 466.693,
+                "y": -425.134
+            },
+            "stroke": {
+                "opacity": 0
+            },
+            "size": {
+                "x": 18.094,
+                "y": 35.459
+            },
+            "text": {
+                "text": " ",
+                "showPlaceholderText": true
+            }
+        },
+        {
+            "type": "rect",
+            "label": {
+                "value": "2",
+                "anchor": "default",
+                "position": "default",
+                "distance": "0.12cm"
+            },
+            "position": {
+                "x": 466.436,
+                "y": -391.826
+            },
+            "stroke": {
+                "opacity": 0
+            },
+            "size": {
+                "x": 36.637,
+                "y": 57.847
+            },
+            "text": {
+                "text": " ",
+                "showPlaceholderText": true
+            }
+        },
+        {
+            "type": "rect",
+            "label": {
+                "value": "4",
+                "anchor": "default",
+                "position": "default",
+                "distance": "0.12cm"
+            },
+            "position": {
+                "x": 466.335,
+                "y": -321.134
+            },
+            "stroke": {
+                "opacity": 0
+            },
+            "size": {
+                "x": 72.993,
+                "y": 85.158
+            },
+            "text": {
+                "text": " ",
+                "showPlaceholderText": true
+            }
+        },
+        {
+            "type": "rect",
+            "label": {
+                "value": "5",
+                "anchor": "default",
+                "position": "default",
+                "distance": "0.12cm"
+            },
+            "position": {
+                "x": 467.408,
+                "y": -284.986
+            },
+            "stroke": {
+                "opacity": 0
+            },
+            "size": {
+                "x": 65.396,
+                "y": 60.987
+            },
+            "text": {
+                "text": " ",
+                "showPlaceholderText": true
+            }
+        },
+        {
+            "type": "wire",
+            "points": [
+                {
+                    "x": 449.986,
+                    "y": -467.247
+                },
+                {
+                    "x": 402.93,
+                    "y": -425.522
+                }
+            ],
+            "stroke": {
+                "width": "0.4pt"
+            },
+            "directions": [
+                "|-"
+            ]
+        },
+        {
+            "type": "wire",
+            "points": [
+                {
+                    "x": 449.986,
+                    "y": -425.326
+                },
+                {
+                    "x": 401.826,
+                    "y": -391.493
+                }
+            ],
+            "stroke": {
+                "width": "0.4pt"
+            },
+            "directions": [
+                "|-"
+            ]
+        },
+        {
+            "type": "wire",
+            "points": [
+                {
+                    "x": 449.986,
+                    "y": -391.052
+                },
+                {
+                    "x": 403.174,
+                    "y": -355.063
+                }
+            ],
+            "stroke": {
+                "width": "0.4pt"
+            },
+            "directions": [
+                "|-"
+            ]
+        },
+        {
+            "type": "wire",
+            "points": [
+                {
+                    "x": 449.986,
+                    "y": -360.064
+                },
+                {
+                    "x": 401.548,
+                    "y": -320.649
+                }
+            ],
+            "stroke": {
+                "width": "0.4pt"
+            },
+            "directions": [
+                "|-"
+            ]
+        },
+        {
+            "type": "wire",
+            "points": [
+                {
+                    "x": 449.986,
+                    "y": -315.648
+                },
+                {
+                    "x": 402.014,
+                    "y": -285.229
+                }
+            ],
+            "stroke": {
+                "width": "0.4pt"
+            },
+            "directions": [
+                "|-"
+            ]
+        },
+        {
+            "type": "node",
+            "label": {
+                "value": "\\mathrm{VCC}",
+                "anchor": "default",
+                "position": "west",
+                "distance": "0.12cm"
+            },
+            "position": {
+                "x": 402.93,
+                "y": -425.522
+            },
+            "rotation": -90,
+            "id": "rground"
+        },
+        {
+            "type": "node",
+            "position": {
+                "x": 401.826,
+                "y": -391.493
+            },
+            "id": "rground"
+        },
+        {
+            "type": "node",
+            "label": {
+                "value": "\\mathrm{SDA}",
+                "anchor": "default",
+                "position": "west",
+                "distance": "0.12cm"
+            },
+            "position": {
+                "x": 403.174,
+                "y": -355.063
+            },
+            "rotation": -90,
+            "id": "rground"
+        },
+        {
+            "type": "node",
+            "label": {
+                "value": "\\mathrm{SCL}",
+                "anchor": "default",
+                "position": "west",
+                "distance": "0.12cm"
+            },
+            "position": {
+                "x": 401.548,
+                "y": -320.649
+            },
+            "rotation": -90,
+            "id": "rground"
+        },
+        {
+            "type": "node",
+            "label": {
+                "value": "\\mathrm{ALERT}",
+                "anchor": "default",
+                "position": "west",
+                "distance": "0.12cm"
+            },
+            "position": {
+                "x": 402.014,
+                "y": -285.229
+            },
+            "rotation": -90,
+            "id": "rground"
+        },
+        {
+            "type": "node",
+            "position": {
+                "x": 333.335,
+                "y": -155.405
+            },
+            "rotation": -90,
+            "id": "rground"
+        },
+        {
+            "type": "node",
+            "label": {
+                "value": "\\mathrm{VCC}",
+                "anchor": "default",
+                "position": "west",
+                "distance": "0.12cm"
+            },
+            "position": {
+                "x": 332.098,
+                "y": -83.892
+            },
+            "rotation": -90,
+            "id": "rground"
+        },
+        {
+            "type": "wire",
+            "points": [
+                {
+                    "x": 650.144,
+                    "y": -55.999
+                },
+                {
+                    "x": 711.297,
+                    "y": -64.563
+                }
+            ],
+            "stroke": {
+                "width": "0.4pt"
+            },
+            "directions": [
+                "-|"
+            ]
+        },
+        {
+            "type": "node",
+            "label": {
+                "value": "3",
+                "anchor": "default",
+                "position": "east",
+                "distance": "0.32cm"
+            },
+            "position": {
+                "x": 449.986,
+                "y": -355.063
+            },
+            "scale": {
+                "x": 0.1,
+                "y": 0.1
+            },
+            "id": "circ"
+        },
+        {
+            "type": "rect",
+            "label": {
+                "value": "\\mathrm{OUT}",
+                "anchor": "default",
+                "position": "northeast",
+                "distance": "0.12cm"
+            },
+            "position": {
+                "x": 619.519,
+                "y": -352.413
+            },
+            "size": {
+                "x": 67.459,
+                "y": 94.269
+            }
+        },
+        {
+            "type": "rect",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        {
+            "type": "wire",
+            "points": [
+                {
+                    "x": 653.248,
+                    "y": -399.547
+                },
+                {
+                    "x": 692.331,
+                    "y": -372.246
+                }
+            ],
+            "stroke": {
+                "width": "0.4pt"
+            },
+            "directions": [
+                "|-"
+            ]
+        },
+        {
+            "type": "wire",
+            "points": [
+                {
+                    "x": 653.248,
+                    "y": -372.246
+                },
+                {
+                    "x": 691.597,
+                    "y": -331.909
+                }
+            ],
+            "stroke": {
+                "width": "0.4pt"
+            },
+            "directions": [
+                "|-"
+            ]
+        },
+        {
+            "type": "wire",
+            "points": [
+                {
+                    "x": 692.331,
+                    "y": -372.246
+                },
+                {
+                    "x": 808.053,
+                    "y": -440.55
+                },
+                {
+                    "x": 786.817,
+                    "y": -371.495
+                }
+            ],
+            "stroke": {
+                "width": "0.4pt"
+            },
+            "directions": [
+                "|-",
+                "|-"
+            ]
+        },
+        {
+            "type": "rect",
+            "label": {
+                "value": "\\mathrm{INPUT}",
+                "anchor": "default",
+                "position": "north",
+                "distance": "0.12cm"
+            },
+            "position": {
+                "x": 753.087,
+                "y": -351.857
+            },
+            "size": {
+                "x": 67.459,
+                "y": 94.269
+            }
+        },
+        {
+            "type": "path",
+            "points": [
+                {
+                    "x": 713.796,
+                    "y": -253.019
+                },
+                {
+                    "x": 787.246,
+                    "y": -253.407
+                }
+            ],
+            "label": {
+                "value": "R_{10}",
+                "distance": "0.12cm"
+            },
+            "id": "european resistor",
+            "scale": {
+                "x": 0.6,
+                "y": 0.6
+            }
+        },
+        {
+            "type": "wire",
+            "points": [
+                {
+                    "x": 691.597,
+                    "y": -331.909
+                },
+                {
+                    "x": 713.796,
+                    "y": -253.019
+                }
+            ],
+            "stroke": {
+                "width": "0.4pt"
+            },
+            "directions": [
+                "|-"
+            ]
+        },
+        {
+            "type": "wire",
+            "points": [
+                {
+                    "x": 787.246,
+                    "y": -253.407
+                },
+                {
+                    "x": 861.222,
+                    "y": -333.35
+                },
+                {
+                    "x": 786.376,
+                    "y": -333.459
+                }
+            ],
+            "stroke": {
+                "width": "0.4pt"
+            },
+            "directions": [
+                "-|",
+                "|-"
+            ]
+        },
+        {
+            "type": "wire",
+            "points": [
+                {
+                    "x": 808.053,
+                    "y": -371.495
+                },
+                {
+                    "x": 861.646,
+                    "y": -371.118
+                }
+            ],
+            "stroke": {
+                "width": "0.4pt"
+            },
+            "directions": [
+                "-|"
+            ]
+        },
+        {
+            "type": "wire",
+            "points": [
+                {
+                    "x": 807.839,
+                    "y": -333.459
+                },
+                {
+                    "x": 861.222,
+                    "y": -333.35
+                }
+            ],
+            "stroke": {
+                "width": "0.4pt"
+            },
+            "directions": [
+                "-|"
+            ]
+        },
+        {
+            "type": "node",
+            "label": {
+                "value": "\\mathrm{AGND}",
+                "anchor": "default",
+                "position": "east",
+                "distance": "0.12cm"
+            },
+            "position": {
+                "x": 861.646,
+                "y": -371.495
+            },
+            "rotation": -90,
+            "id": "tground"
+        },
+        {
+            "type": "node",
+            "label": {
+                "value": "1",
+                "anchor": "default",
+                "position": "west",
+                "distance": "0.12cm"
+            },
+            "position": {
+                "x": 786.817,
+                "y": -371.495
+            },
+            "scale": {
+                "x": 0.1,
+                "y": 0.1
+            },
+            "id": "circ"
+        },
+        {
+            "type": "node",
+            "label": {
+                "value": "2",
+                "anchor": "default",
+                "position": "west",
+                "distance": "0.12cm"
+            },
+            "position": {
+                "x": 786.376,
+                "y": -333.459
+            },
+            "scale": {
+                "x": 0.1,
+                "y": 0.1
+            },
+            "id": "circ"
+        },
+        {
+            "type": "node",
+            "label": {
+                "value": "1",
+                "anchor": "default",
+                "position": "west",
+                "distance": "0.12cm"
+            },
+            "position": {
+                "x": 653.248,
+                "y": -372.246
+            },
+            "scale": {
+                "x": 0.1,
+                "y": 0.1
+            },
+            "id": "circ"
+        },
+        {
+            "type": "node",
+            "label": {
+                "value": "2",
+                "anchor": "default",
+                "position": "west",
+                "distance": "0.12cm"
+            },
+            "position": {
+                "x": 653.248,
+                "y": -331.909
+            },
+            "scale": {
+                "x": 0.1,
+                "y": 0.1
+            },
+            "id": "circ"
+        },
+        {
+            "type": "node",
+            "label": {
+                "value": "\\mathrm{VIN-}",
+                "anchor": "default",
+                "position": "southeast",
+                "distance": "0.02cm"
+            },
+            "position": {
+                "x": 653.248,
+                "y": -305.278
+            },
+            "scale": {
+                "x": 0.1,
+                "y": 0.1
+            },
+            "id": "circ"
+        },
+        {
+            "type": "node",
+            "label": {
+                "value": "\\mathrm{VIN+}",
+                "anchor": "default",
+                "position": "east",
+                "distance": "0.12cm"
+            },
+            "position": {
+                "x": 861.222,
+                "y": -333.35
+            },
+            "scale": {
+                "x": 0.1,
+                "y": 0.1
+            },
+            "id": "circ"
+        },
+        {
+            "type": "node",
+            "position": {
+                "x": 808.053,
+                "y": -371.495
+            },
+            "id": "circ"
+        }
+    ]
+}
