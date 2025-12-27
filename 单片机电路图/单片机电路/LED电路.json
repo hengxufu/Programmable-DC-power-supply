@@ -1,0 +1,160 @@
+{
+    "version": "0.1",
+    "components": [
+        {
+            "type": "path",
+            "points": [
+                {
+                    "x": 113.386,
+                    "y": -188.976
+                },
+                {
+                    "x": 188.976,
+                    "y": -188.976
+                }
+            ],
+            "label": {
+                "value": "R_2",
+                "distance": "0.12cm"
+            },
+            "id": "european resistor",
+            "scale": {
+                "x": 0.6,
+                "y": 0.6
+            }
+        },
+        {
+            "type": "path",
+            "points": [
+                {
+                    "x": 188.976,
+                    "y": -113.386
+                },
+                {
+                    "x": 264.566,
+                    "y": -113.386
+                }
+            ],
+            "label": {
+                "value": "R_1",
+                "distance": "0.12cm"
+            },
+            "id": "european resistor",
+            "scale": {
+                "x": 0.6,
+                "y": 0.6
+            }
+        },
+        {
+            "type": "path",
+            "points": [
+                {
+                    "x": 302.362,
+                    "y": -188.976
+                },
+                {
+                    "x": 188.976,
+                    "y": -188.976
+                }
+            ],
+            "id": "empty led",
+            "scale": {
+                "x": 1,
+                "y": -1
+            }
+        },
+        {
+            "type": "path",
+            "points": [
+                {
+                    "x": 113.386,
+                    "y": -113.386
+                },
+                {
+                    "x": 188.976,
+                    "y": -113.386
+                }
+            ],
+            "id": "empty led"
+        },
+        {
+            "type": "wire",
+            "points": [
+                {
+                    "x": 264.567,
+                    "y": -113.386
+                },
+                {
+                    "x": 302.362,
+                    "y": -113.386
+                }
+            ],
+            "stroke": {
+                "width": "0.4pt"
+            },
+            "directions": [
+                "-|"
+            ]
+        },
+        {
+            "type": "node",
+            "label": {
+                "value": "\\mathrm{GND}",
+                "anchor": "default",
+                "position": "west",
+                "distance": "0.12cm"
+            },
+            "position": {
+                "x": 113.386,
+                "y": -188.976
+            },
+            "rotation": -90,
+            "id": "rground"
+        },
+        {
+            "type": "node",
+            "label": {
+                "value": "\\mathrm{VCC3.3V}",
+                "anchor": "default",
+                "position": "north",
+                "distance": "0.12cm"
+            },
+            "position": {
+                "x": 302.362,
+                "y": -188.976
+            },
+            "rotation": -180,
+            "id": "rground"
+        },
+        {
+            "type": "node",
+            "label": {
+                "value": "PC13",
+                "anchor": "default",
+                "position": "east",
+                "distance": "0.12cm"
+            },
+            "position": {
+                "x": 302.362,
+                "y": -113.386
+            },
+            "rotation": 90,
+            "id": "rground"
+        },
+        {
+            "type": "node",
+            "label": {
+                "value": "\\mathrm{VCC3.3V}",
+                "anchor": "default",
+                "position": "west",
+                "distance": "0.12cm"
+            },
+            "position": {
+                "x": 113.386,
+                "y": -113.386
+            },
+            "rotation": -90,
+            "id": "rground"
+        }
+    ]
+}

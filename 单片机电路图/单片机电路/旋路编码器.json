@@ -1,0 +1,641 @@
+{
+    "version": "0.1",
+    "components": [
+        {
+            "type": "path",
+            "points": [
+                {
+                    "x": 151.181,
+                    "y": -141.732
+                },
+                {
+                    "x": 151.181,
+                    "y": -103.937
+                }
+            ],
+            "label": {
+                "value": "C_6",
+                "distance": "0.12cm"
+            },
+            "id": "capacitor",
+            "scale": {
+                "x": 0.6,
+                "y": 0.6
+            }
+        },
+        {
+            "type": "path",
+            "points": [
+                {
+                    "x": 151.181,
+                    "y": -47.244
+                },
+                {
+                    "x": 151.181,
+                    "y": -9.449
+                }
+            ],
+            "label": {
+                "value": "C_7",
+                "distance": "0.12cm"
+            },
+            "id": "capacitor",
+            "scale": {
+                "x": 0.6,
+                "y": 0.6
+            }
+        },
+        {
+            "type": "path",
+            "points": [
+                {
+                    "x": 415.748,
+                    "y": -85.039
+                },
+                {
+                    "x": 415.748,
+                    "y": -47.244
+                }
+            ],
+            "label": {
+                "value": "C_8",
+                "distance": "0.12cm"
+            },
+            "id": "capacitor",
+            "scale": {
+                "x": 0.6,
+                "y": 0.6
+            }
+        },
+        {
+            "type": "path",
+            "points": [
+                {
+                    "x": 160.63,
+                    "y": -94.488
+                },
+                {
+                    "x": 236.221,
+                    "y": -94.488
+                }
+            ],
+            "label": {
+                "value": "R_{12}",
+                "distance": "0.12cm"
+            },
+            "id": "european resistor",
+            "scale": {
+                "x": 0.6,
+                "y": 0.6
+            }
+        },
+        {
+            "type": "path",
+            "points": [
+                {
+                    "x": 236.22,
+                    "y": -170.079
+                },
+                {
+                    "x": 236.22,
+                    "y": -94.489
+                }
+            ],
+            "label": {
+                "value": "R_{13}",
+                "distance": "0.12cm"
+            },
+            "id": "european resistor",
+            "scale": {
+                "x": 0.6,
+                "y": 0.6
+            }
+        },
+        {
+            "type": "path",
+            "points": [
+                {
+                    "x": 236.22,
+                    "y": -66.142
+                },
+                {
+                    "x": 236.22,
+                    "y": 9.448
+                }
+            ],
+            "label": {
+                "value": "R_{14}",
+                "distance": "0.12cm"
+            },
+            "id": "european resistor",
+            "scale": {
+                "x": 0.6,
+                "y": 0.6
+            }
+        },
+        {
+            "type": "path",
+            "points": [
+                {
+                    "x": 415.748,
+                    "y": -160.63
+                },
+                {
+                    "x": 415.748,
+                    "y": -85.04
+                }
+            ],
+            "label": {
+                "value": "R_{15}",
+                "distance": "0.12cm"
+            },
+            "id": "european resistor",
+            "scale": {
+                "x": 0.6,
+                "y": 0.6
+            }
+        },
+        {
+            "type": "path",
+            "points": [
+                {
+                    "x": 160.63,
+                    "y": -66.142
+                },
+                {
+                    "x": 236.22,
+                    "y": -66.142
+                }
+            ],
+            "label": {
+                "value": "R_{11}",
+                "otherSide": true,
+                "distance": "0.12cm"
+            },
+            "id": "european resistor",
+            "scale": {
+                "x": 0.6,
+                "y": 0.6
+            }
+        },
+        {
+            "type": "wire",
+            "points": [
+                {
+                    "x": 151.181,
+                    "y": -103.937
+                },
+                {
+                    "x": 160.63,
+                    "y": -94.488
+                }
+            ],
+            "stroke": {
+                "width": "0.4pt"
+            },
+            "directions": [
+                "|-"
+            ]
+        },
+        {
+            "type": "wire",
+            "points": [
+                {
+                    "x": 160.63,
+                    "y": -66.142
+                },
+                {
+                    "x": 151.181,
+                    "y": -66.142
+                },
+                {
+                    "x": 151.181,
+                    "y": -47.244
+                }
+            ],
+            "stroke": {
+                "width": "0.4pt"
+            },
+            "directions": [
+                "|-",
+                "-|"
+            ]
+        },
+        {
+            "type": "node",
+            "position": {
+                "x": 151.181,
+                "y": -141.732
+            },
+            "id": "tground"
+        },
+        {
+            "type": "node",
+            "label": {
+                "value": "+3.3\\mathrm{V}",
+                "anchor": "default",
+                "position": "north",
+                "distance": "0.08cm"
+            },
+            "position": {
+                "x": 236.22,
+                "y": -170.079
+            },
+            "id": "tground"
+        },
+        {
+            "type": "node",
+            "position": {
+                "x": 151.181,
+                "y": -9.449
+            },
+            "id": "tground"
+        },
+        {
+            "type": "node",
+            "label": {
+                "value": "+3.3\\mathrm{V}",
+                "anchor": "default",
+                "position": "south",
+                "distance": "0.08cm"
+            },
+            "position": {
+                "x": 236.22,
+                "y": 9.449
+            },
+            "id": "tground"
+        },
+        {
+            "type": "rect",
+            "position": {
+                "x": 325.984,
+                "y": -80.315
+            },
+            "size": {
+                "x": 103.937,
+                "y": 103.937
+            }
+        },
+        {
+            "type": "ellipse",
+            "position": {
+                "x": 325.984,
+                "y": -80.315
+            },
+            "size": {
+                "x": 54.33070866141736,
+                "y": 56.692913385826756
+            }
+        },
+        {
+            "type": "wire",
+            "points": [
+                {
+                    "x": 318.17,
+                    "y": -106.768
+                },
+                {
+                    "x": 318.17,
+                    "y": -54.443
+                }
+            ],
+            "stroke": {
+                "width": "0.4pt"
+            },
+            "directions": [
+                "|-"
+            ]
+        },
+        {
+            "type": "wire",
+            "points": [
+                {
+                    "x": 333.084,
+                    "y": -105.844
+                },
+                {
+                    "x": 333.084,
+                    "y": -53.519
+                }
+            ],
+            "stroke": {
+                "width": "0.4pt"
+            },
+            "directions": [
+                "|-"
+            ]
+        },
+        {
+            "type": "wire",
+            "points": [
+                {
+                    "x": 236.22,
+                    "y": -94.488
+                },
+                {
+                    "x": 274.016,
+                    "y": -94.488
+                }
+            ],
+            "stroke": {
+                "width": "0.4pt"
+            },
+            "directions": [
+                "-|"
+            ]
+        },
+        {
+            "type": "wire",
+            "points": [
+                {
+                    "x": 236.22,
+                    "y": -66.142
+                },
+                {
+                    "x": 274.016,
+                    "y": -66.142
+                }
+            ],
+            "stroke": {
+                "width": "0.4pt"
+            },
+            "directions": [
+                "-|"
+            ]
+        },
+        {
+            "type": "wire",
+            "points": [
+                {
+                    "x": 274.016,
+                    "y": -80.315
+                },
+                {
+                    "x": 229.722,
+                    "y": -80.561
+                }
+            ],
+            "stroke": {
+                "width": "0.4pt"
+            },
+            "directions": [
+                "-|"
+            ]
+        },
+        {
+            "type": "node",
+            "position": {
+                "x": 229.722,
+                "y": -80.561
+            },
+            "rotation": -90,
+            "id": "tground"
+        },
+        {
+            "type": "node",
+            "label": {
+                "value": "A",
+                "anchor": "default",
+                "position": "east",
+                "distance": "0.19cm"
+            },
+            "position": {
+                "x": 274.016,
+                "y": -94.488
+            },
+            "scale": {
+                "x": 0.1,
+                "y": 0.1
+            },
+            "id": "circ"
+        },
+        {
+            "type": "node",
+            "label": {
+                "value": "B",
+                "anchor": "default",
+                "position": "east",
+                "distance": "0.18cm"
+            },
+            "position": {
+                "x": 274.016,
+                "y": -80.315
+            },
+            "scale": {
+                "x": 0.1,
+                "y": 0.1
+            },
+            "id": "circ"
+        },
+        {
+            "type": "node",
+            "label": {
+                "value": "C",
+                "anchor": "default",
+                "position": "east",
+                "distance": "0.17cm"
+            },
+            "position": {
+                "x": 274.016,
+                "y": -66.142
+            },
+            "scale": {
+                "x": 0.1,
+                "y": 0.1
+            },
+            "id": "circ"
+        },
+        {
+            "type": "node",
+            "position": {
+                "x": 236.22,
+                "y": -94.488
+            },
+            "id": "circ"
+        },
+        {
+            "type": "node",
+            "position": {
+                "x": 236.22,
+                "y": -66.142
+            },
+            "id": "circ"
+        },
+        {
+            "type": "wire",
+            "points": [
+                {
+                    "x": 415.748,
+                    "y": -85.039
+                },
+                {
+                    "x": 377.953,
+                    "y": -85.039
+                }
+            ],
+            "stroke": {
+                "width": "0.4pt"
+            },
+            "directions": [
+                "|-"
+            ]
+        },
+        {
+            "type": "wire",
+            "points": [
+                {
+                    "x": 415.748,
+                    "y": -47.244
+                },
+                {
+                    "x": 377.953,
+                    "y": -47.244
+                }
+            ],
+            "stroke": {
+                "width": "0.4pt"
+            },
+            "directions": [
+                "-|"
+            ]
+        },
+        {
+            "type": "node",
+            "label": {
+                "value": "+3.3\\mathrm{V}",
+                "anchor": "default",
+                "position": "south",
+                "distance": "0.12cm"
+            },
+            "position": {
+                "x": 415.748,
+                "y": -28.346
+            },
+            "id": "tground"
+        },
+        {
+            "type": "node",
+            "position": {
+                "x": 415.748,
+                "y": -160.63
+            },
+            "id": "tground"
+        },
+        {
+            "type": "wire",
+            "points": [
+                {
+                    "x": 415.748,
+                    "y": -47.244
+                },
+                {
+                    "x": 415.748,
+                    "y": -28.346
+                }
+            ],
+            "stroke": {
+                "width": "0.4pt"
+            },
+            "directions": [
+                "-|"
+            ]
+        },
+        {
+            "type": "node",
+            "position": {
+                "x": 415.748,
+                "y": -85.039
+            },
+            "id": "circ"
+        },
+        {
+            "type": "node",
+            "position": {
+                "x": 415.748,
+                "y": -47.244
+            },
+            "id": "circ"
+        },
+        {
+            "type": "node",
+            "label": {
+                "value": "E",
+                "anchor": "default",
+                "position": "west",
+                "distance": "0.12cm"
+            },
+            "position": {
+                "x": 377.953,
+                "y": -47.244
+            },
+            "scale": {
+                "x": 0.1,
+                "y": 0.1
+            },
+            "id": "circ"
+        },
+        {
+            "type": "node",
+            "label": {
+                "value": "D",
+                "anchor": "default",
+                "position": "west",
+                "distance": "0.12cm"
+            },
+            "position": {
+                "x": 377.953,
+                "y": -85.039
+            },
+            "scale": {
+                "x": 0.1,
+                "y": 0.1
+            },
+            "id": "circ"
+        },
+        {
+            "type": "node",
+            "label": {
+                "value": "EC-A",
+                "anchor": "default",
+                "position": "west",
+                "distance": "0.12cm"
+            },
+            "position": {
+                "x": 151.181,
+                "y": -94.488
+            },
+            "rotation": -90,
+            "id": "rground"
+        },
+        {
+            "type": "node",
+            "label": {
+                "value": "EC-B",
+                "anchor": "default",
+                "position": "west",
+                "distance": "0.12cm"
+            },
+            "position": {
+                "x": 151.181,
+                "y": -66.142
+            },
+            "rotation": -90,
+            "id": "rground"
+        },
+        {
+            "type": "node",
+            "label": {
+                "value": "EC-K",
+                "anchor": "default",
+                "position": "east",
+                "distance": "0.12cm"
+            },
+            "position": {
+                "x": 415.748,
+                "y": -85.039
+            },
+            "rotation": 90,
+            "id": "rground"
+        }
+    ]
+}
